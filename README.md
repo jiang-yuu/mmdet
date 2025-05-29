@@ -46,6 +46,3 @@ python tools/test.py "configs/my_configs/sparse-rcnn_r50_fpn_1x_voc.py" "D:/mmde
 ```
 tensorboard --logdir=work_dirs
 ```
-### 5.实例分割与目标检测可视化结果
-```
-```
